@@ -1,0 +1,2 @@
+module com.crud.app {
+}
